@@ -6,5 +6,5 @@ conexion.php
 desconectar.php
 enviarForm.php
 getpremier.php
-phpMailer/
+phpMailer
 verificarLgn.php
